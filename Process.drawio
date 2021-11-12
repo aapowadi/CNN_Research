@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T04:53:18.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="ekA9goDR68EyHcFDebsd" type="github"><diagram id="YF1BaXK3e8-BnK9RT3wD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-12T04:56:33.780Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="sCBrO8TkDe8Kel3be-Bv" version="15.7.0" type="github">
+  <diagram id="YF1BaXK3e8-BnK9RT3wD" name="Page-1">
+    <mxGraphModel dx="946" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wQOMXptDMb0KPPvxm0Am-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wQOMXptDMb0KPPvxm0Am-1" target="wQOMXptDMb0KPPvxm0Am-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wQOMXptDMb0KPPvxm0Am-1" value="Segmentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQOMXptDMb0KPPvxm0Am-2" value="Pose Estimation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQOMXptDMb0KPPvxm0Am-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wQOMXptDMb0KPPvxm0Am-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wQOMXptDMb0KPPvxm0Am-6" value="Depth map" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQOMXptDMb0KPPvxm0Am-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wQOMXptDMb0KPPvxm0Am-9" target="wQOMXptDMb0KPPvxm0Am-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wQOMXptDMb0KPPvxm0Am-9" value="Color Image" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
